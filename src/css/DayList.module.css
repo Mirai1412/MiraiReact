@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+.listBox{
+    margin: auto;
+    border:  4px solid rgb(0, 0, 0);
+    border-top: none;
+    width: 80%;
+    min-height: 600px;
+    border-radius: 0 0 20px 20px;
+    padding: 0 50px;
+    background-color: white;
+}
+
+.listUl{
+    margin: auto;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    padding: 0;
+    padding-top: 40px;
+}
+
+.listLi{
+    margin: 50px;
+    width: 23%;
+    height: 150px;
+    line-height: 150px;
+    border-radius: 20px;
+    border: 4px solid rgb(0, 0, 0);
+}
+
+.listLi a{
+    text-decoration: none;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}

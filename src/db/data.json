@@ -1,0 +1,58 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "kor": "책",
+      "eng": "Book",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "kor": "사과",
+      "eng": "Apple",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "kor": "천세준",
+      "eng": "Kill",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "day",
+      "kor": "날",
+      "isDone": false,
+      "id": 4
+    }
+  ]
+}
